@@ -20,6 +20,9 @@
     .ist-list-item-3{
         left: 0;
     }
+    .head-title{
+        width: 70%;
+    }
 }
 @media screen and (max-width: 769px){
     .nav-item-s{
@@ -38,6 +41,17 @@
     }
     .bottom-sec-wrapper{
         padding: 55px;
+    }
+    .head-title{
+        width: 90%;
+    }
+    .cs-bg{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 716px){
+    .bottom-sec-wrapper{
+        padding: 20px;
     }
 }
 @media screen and (max-width: 519px){

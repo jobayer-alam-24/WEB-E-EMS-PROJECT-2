@@ -65,3 +65,37 @@ ul{
     top: 81%;
 }
 /* ================ */
+/* ================ */
+.head-title{
+    background-color: #0b62d4;
+    color: white;
+    padding: 10px 5px;
+    width: 50%;
+    margin: 0 auto;
+}
+.cs-bg{
+    width: 60%;
+    margin: 0 auto;
+    background-color: hsl(60, 80%, 46%);
+    box-shadow: -1px 0px 6px 0px rgba(0,0,0,0.75);
+}
+.cs-text-color{
+    color: red;
+}
+.spbetween{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.line{
+    position: absolute;
+    left: 78%;
+}
+.border-btm{
+    border-bottom: 3px solid rgba(0, 0, 0, 0.692);
+    margin-bottom: 4%;
+}
+.head-fs{
+    font-size: 3rem;
+}
+/* ================ */
