@@ -3,3 +3,45 @@
         width: 70%;
     }
 }
+@media screen and (max-width: 1200px){
+    .nav-item-s{
+        width: 70%;
+    }
+    .ist-list-item, .ist-list-item-2,
+    .ist-list-item-3{
+        left: 9%;
+    }
+}
+@media screen and (max-width: 992px){
+    .nav-item-s{
+        width: 90%;
+    }
+    .ist-list-item, .ist-list-item-2,
+    .ist-list-item-3{
+        left: 0;
+    }
+}
+@media screen and (max-width: 769px){
+    .nav-item-s{
+        width: 100%;
+    }
+    .ist-list-item, .ist-list-item-2,
+    .ist-list-item-3{
+        left: -43px;
+    }
+    .cs-color{
+        width: 100%;
+        font-size: 2.2rem;
+    }
+    .sub-head{
+        font-size: 1.8rem;
+    }
+    .bottom-sec-wrapper{
+        padding: 55px;
+    }
+}
+@media screen and (max-width: 519px){
+    .ins-list-para{
+        margin-bottom: 0;
+    }
+}
